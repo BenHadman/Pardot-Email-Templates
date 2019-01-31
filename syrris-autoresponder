@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <!-- Facebook sharing information tags -->
+	<meta property="og:title" content="%%subject%%" />
+
+    <title>%%subject%%</title>
+</head>
+
+<body bgcolor="#F3F4F6" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; height: 100% !important; width: 100% !important; background-color: #FAFAFA; margin: 0; padding: 0;">
+<style type="text/css">@font-face {
+font-family: 'nowalt-medium';
+font-style: normal;
+font-weight: 500;
+src: local('nowalt-medium-webfont'), url(https://res.cloudinary.com/dolomite/raw/upload/v1546872666/nowalt-medium-webfont.woff) format('woff');
+}
+	  @font-face {
+font-family: 'Ubuntu-Regular';
+font-style: normal;
+font-weight: 400;
+src: local('Ubuntu-Regular'), url(https://res.cloudinary.com/dolomite/raw/upload/v1546872460/Ubuntu-Regular.woff) format('woff');
+}
+#outlook a {
+          padding: 0;
+          color:#e23d2d;
+      }
+      .body{
+          width: 100% !important;
+          -webkit-text-size-adjust: 100%;
+          -ms-text-size-adjust: 100%;
+          margin: 0;
+          padding: 0;
+      }
+      .ExternalClass {
+          width:100%;
+      }
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+          line-height: 100%;
+      }
+      img {
+          outline: none;
+          text-decoration: none;
+          -ms-interpolation-mode: bicubic;
+      }
+      a img {
+          border: none;
+          color:#e23d2d;
+      }
+      p {
+          margin: 1em 0;
+      }
+      table td {
+          border-collapse: collapse;
+      }
+      /* hide unsubscribe from forwards*/
+      blockquote .original-only, .WordSection1 .original-only {
+        display: none !important;
+      }
+
+      @media only screen and (max-width: 480px){
+        body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;font-family: "Ubuntu-Regular", "Century Gothic", CenturyGothic, AppleGothic, Arial,sans-serif;color:#878788;} /* Prevent Webkit platforms from changing default text sizes */
+                body{width:100% !important; min-width:100% !important;} /* Prevent iOS Mail from adding padding to the body */
+
+        #bodyCell{padding:10px !important;}
+
+        #templateContainer{
+          max-width:600px !important;
+          width:100% !important;
+        }
+
+        h1{
+          font-size:24px !important;
+          line-height:100% !important;
+          font-family:"nowalt-medium", "Century Gothic", CenturyGothic, AppleGothic, Arial,sans-serif;
+        }
+
+        h2{
+          font-size:20px !important;
+          line-height:100% !important;
+          font-family:"nowalt-medium", "Century Gothic", CenturyGothic, AppleGothic, Arial,sans-serif;
+        }
+
+        h3{
+          font-size:18px !important;
+          line-height:100% !important;
+          font-family:"nowalt-medium", "Century Gothic", CenturyGothic, AppleGothic, Arial,sans-serif;
+        }
+
+        h4{
+          font-size:16px !important;
+          line-height:100% !important;
+          font-family:"nowalt-medium", "Century Gothic", CenturyGothic, AppleGothic, Arial,sans-serif;
+        }
+        a{
+            color:#e23d2d;
+        }
+
+        #templatePreheader{display:none !important;} /* Hide the template preheader to save space */
+
+        #headerImage{
+          height:auto !important;
+          max-width:600px !important;
+          width:100% !important;
+        }
+
+        .headerContent{
+          font-size:20px !important;
+          line-height:125% !important;
+        }
+
+        .bodyContent{
+          font-size:18px !important;
+          line-height:125% !important;
+        }
+
+        .footerContent{
+          font-size:14px !important;
+          line-height:115% !important;
+        }
+
+        .footerContent a{display:block !important;} /* Place footer social and utility links on their own lines, for easier access */
+      }
+</style>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="bodyTable" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FAFAFA; border-collapse: collapse !important; height: 100% !important; margin: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; width: 100% !important" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" id="bodyCell" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; height: 100% !important; width: 100% !important; border-top-width: 4px; border-top-color: #dddddd; border-top-style: solid; margin: 0; padding: 20px;" valign="top"><!-- BEGIN TEMPLATE // -->
+			<table border="0" cellpadding="0" cellspacing="0" id="templateContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important; width: 600px; border: 1px solid #dddddd;">
+				<tbody>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN PREHEADER // -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+								<tr>
+									<td align="left" class="preheaderContent" pardot-region="preheader_content00" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #161617; font-family: 'Ubuntu-Regular', 'Century Gothic', CenturyGothic, AppleGothic, Arial,sans-serif; font-size: 10px; line-height: 12.5px; text-align: left; padding: 10px 20px;" valign="top">&nbsp;</td>
+									<td align="left" class="preheaderContent" pardot-region="preheader_content01" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #161617; font-family: 'Ubuntu-Regular', 'Century Gothic', CenturyGothic, AppleGothic, Arial,sans-serif; font-size: 10px; line-height: 12.5px; text-align: left; padding: 10px 20px 10px 0;" valign="top" width="180">Email not displaying correctly?<br>
+									<a href="%%view_online%%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #606060; font-weight: normal; text-decoration: underline;" target="_blank">View it in your browser</a>.</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // END PREHEADER --></td>
+					</tr>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN BODY // -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templateBody" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; border-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+								<tr pardot-repeatable="">
+									<td align="left" class="bodyContent" pardot-data="link-color:#e23d2d;link-underline:none;" pardot-region="body_content" style="text-size-adjust: 100%; color: rgb(135, 135, 136); font-family: Ubuntu-Regular, &quot;Century Gothic&quot;, CenturyGothic, AppleGothic, Arial, sans-serif; font-size: 15px; line-height: 21px; text-align: left; padding: 20px;" valign="top">Hi&nbsp;%%first_name%%,<br>
+									<br>
+									Thanks for getting in touch with Syrris.<br>
+									I will be picking up your enquiry as soon as I can, this can take up to 48 hours.<br>
+									<img align="right" alt="" border="0" height="150" src="https://cdn.dribbble.com/users/996802/screenshots/2722950/highfive_contaazul_fernandasponchiado.gif" style="width: 200px; height: 150px; border-width: 0px; border-style: solid; float: right;" width="200"><br>
+									<br>
+									In the meantime feel free to stay up to date on all of our activities by:
+									<ul>
+										<li>Following our <a href="https://blog.syrris.com/" style="text-decoration: none; color: rgb(226, 61, 45);">blog</a>.</li>
+										<li>View our&nbsp;<a href="https://syrris.com/customer-stories/" style="text-decoration: none; color: rgb(226, 61, 45);" target="_blank">customer success stories</a>&nbsp;and&nbsp;<a href="https://syrris.com/applications/" style="text-decoration: none; color: rgb(226, 61, 45);" target="_blank">applications pages</a>.</li>
+										<li>Check the latest&nbsp;<a href="https://syrris.com/support/syrris-in-publications/" style="text-decoration: none; color: rgb(226, 61, 45);" target="_blank">academic publications</a>&nbsp;we feature in.</li>
+									</ul>
+									</td>
+								</tr>
+								<tr>
+									<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN BODY // -->
+									<table border="0" cellpadding="0" cellspacing="0" id="templateBody" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; border-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+										<tbody>
+											<tr pardot-repeatable="">
+												<td align="left" class="bodyContent" pardot-region="body_content" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: color:#878788;; font-family: 'Ubuntu-Regular', 'Century Gothic', CenturyGothic, AppleGothic, Arial,sans-serif; font-size: 14px; line-height: 21px; text-align: left; padding: 20px;" valign="top">%%user_html_signature%%</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- // END BODY --></td>
+								</tr>
+								<tr>
+									<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN FOOTER // -->
+									<table border="0" cellpadding="0" cellspacing="0" id="templateFooter" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-collapse: collapse !important; border-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+										<tbody>
+											<tr>
+												<td align="left" class="footerContent original-only" pardot-region="footer_content02" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #808080; font-family: 'Ubuntu-Regular', 'Century Gothic', CenturyGothic, AppleGothic, Arial,sans-serif; font-size: 10px; line-height: 15px; text-align: left; padding: 0 20px 40px;" valign="top"><a href="%%unsubscribe%%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #606060; font-weight: normal; text-decoration: underline;">unsubscribe from all emails</a>&nbsp;&nbsp;&nbsp;<a href="%%email_preference_center%%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #606060; font-weight: normal; text-decoration: underline;">update subscription preferences</a>&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- // END FOOTER --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // END TEMPLATE --></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
